@@ -9,7 +9,7 @@ function App() {
     <div>
       <Header branding = "Contact Manager1"/>  
       <div className='container'>
-      <Contact name='Mugiwara no luffy' email='niku@gmail.com' number='555'/>
+      <Contact name='Monkey D Luffy' email='niku@gmail.com' number='555'/>
       <Contact name='Roronoa Zoro' email='katana@gmail.com' number='666'/>
       <Contact name='Kuro Hashi Sanji' email='onna@gmail.com' number='777'/>
       </div>
